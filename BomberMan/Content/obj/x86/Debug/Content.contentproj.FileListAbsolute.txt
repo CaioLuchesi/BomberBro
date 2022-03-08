@@ -1,0 +1,26 @@
+D:\BomberMan\Backup\Backup\Backup\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\BomberMan\Backup\Backup\Backup\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BomberMan\Backup\Backup\Backup\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u08140\Desktop\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BomberMan\Backup\Backup\Backup\BomberBro\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u08136\Desktop\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\u08110\Desktop\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Renan's Pen Drive\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Renan's Pen Drive\BomberBroDPSFAsDrawableGameComponent\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Renan's Pen Drive\BomberBroDPSFAsDrawableGameComponent\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Renan's Pen Drive\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Renan's Pen Drive\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Renan's Pen Drive\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Renan's Pen Drive\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CAIO\Projeto Bomber\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caio\Desktop\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\CAIO\Projeto Bomber\projeto\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Caio\Documents\Caio\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Renan\Desktop\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Renan's Pen Drive\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache

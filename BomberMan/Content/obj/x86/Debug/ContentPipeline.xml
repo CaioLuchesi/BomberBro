@@ -1,0 +1,1904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Z\bombermanMenu.jpg</Source>
+      <Name>Images\Z\bombermanMenu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Z\bombermanMenu.xnb</Output>
+      <Time>2010-03-02T17:25:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanWhite.png</Source>
+      <Name>Images\Character\BombermanWhite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanWhite.xnb</Output>
+      <Time>2010-03-02T18:17:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanNinja.png</Source>
+      <Name>Images\Character\BombermanNinja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanNinja.xnb</Output>
+      <Time>2010-03-03T10:27:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanWitch.png</Source>
+      <Name>Images\Character\BombermanWitch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanWitch.xnb</Output>
+      <Time>2010-03-03T15:30:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanHero.png</Source>
+      <Name>Images\Character\BombermanHero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanHero.xnb</Output>
+      <Time>2010-03-03T18:29:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanBishop.png</Source>
+      <Name>Images\Character\BombermanBishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanBishop.xnb</Output>
+      <Time>2010-03-03T18:32:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanMonk.png</Source>
+      <Name>Images\Character\BombermanMonk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanMonk.xnb</Output>
+      <Time>2010-03-03T18:36:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanBlack.png</Source>
+      <Name>Images\Character\BombermanBlack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanBlack.xnb</Output>
+      <Time>2010-03-03T18:37:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanRed.png</Source>
+      <Name>Images\Character\BombermanRed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanRed.xnb</Output>
+      <Time>2010-03-03T18:38:34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Z\Bomber.png</Source>
+      <Name>Images\Z\Bomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Z\Bomber.xnb</Output>
+      <Time>2010-03-23T17:37:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocoindestrutivel.png</Source>
+      <Name>Images\Tiles\blocoindestrutivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocoindestrutivel.xnb</Output>
+      <Time>2010-03-16T09:55:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocodestrutivel.png</Source>
+      <Name>Images\Tiles\blocodestrutivel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocodestrutivel.xnb</Output>
+      <Time>2010-03-16T11:09:40-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocoindestrutivelcorrigido.PNG</Source>
+      <Name>Images\Tiles\blocoindestrutivelcorrigido</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocoindestrutivelcorrigido.xnb</Output>
+      <Time>2010-08-11T08:37:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocodestrutivelcorrigido.png</Source>
+      <Name>Images\Tiles\blocodestrutivelcorrigido</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocodestrutivelcorrigido.xnb</Output>
+      <Time>2010-08-11T08:30:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\bomberman copy.png</Source>
+      <Name>Images\Menu\bomberman copy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\bomberman copy.xnb</Output>
+      <Time>2010-03-28T13:49:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\versão2-grassstage.PNG</Source>
+      <Name>Images\Backgrounds\versão2-grassstage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\versão2-grassstage.xnb</Output>
+      <Time>2010-04-13T11:53:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\versão1-grassstage.PNG</Source>
+      <Name>Images\Backgrounds\versão1-grassstage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\versão1-grassstage.xnb</Output>
+      <Time>2010-04-13T13:09:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\desertstage2.PNG</Source>
+      <Name>Images\Backgrounds\desertstage2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\desertstage2.xnb</Output>
+      <Time>2010-04-20T10:36:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\desertoblock.png</Source>
+      <Name>Images\Tiles\desertoblock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\desertoblock.xnb</Output>
+      <Time>2010-04-13T11:28:52-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\BASE pirata.png</Source>
+      <Name>Images\Backgrounds\BASE pirata</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\BASE pirata.xnb</Output>
+      <Time>2010-04-14T19:47:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocoindestrutivelpirata.png</Source>
+      <Name>Images\Tiles\blocoindestrutivelpirata</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocoindestrutivelpirata.xnb</Output>
+      <Time>2010-04-20T10:05:22-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\newbomb.png</Source>
+      <Name>Images\Bombs\newbomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\newbomb.xnb</Output>
+      <Time>2010-05-12T11:35:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Fire\AnimatedExplosion.tga</Source>
+      <Name>Images\Fire\AnimatedExplosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Fire\AnimatedExplosion.xnb</Output>
+      <Time>2010-05-20T09:01:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\bombKick.png</Source>
+      <Name>Images\Power-ups\bombKick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\bombKick.xnb</Output>
+      <Time>2010-08-02T11:32:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\bombUp.png</Source>
+      <Name>Images\Power-ups\bombUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\bombUp.xnb</Output>
+      <Time>2010-08-02T08:35:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\dangerousBomb.png</Source>
+      <Name>Images\Power-ups\dangerousBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\dangerousBomb.xnb</Output>
+      <Time>2010-08-02T11:33:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\fireUp.png</Source>
+      <Name>Images\Power-ups\fireUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\fireUp.xnb</Output>
+      <Time>2010-08-02T11:41:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\fullFire.png</Source>
+      <Name>Images\Power-ups\fullFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\fullFire.xnb</Output>
+      <Time>2010-08-02T11:42:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\lineBomb.png</Source>
+      <Name>Images\Power-ups\lineBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\lineBomb.xnb</Output>
+      <Time>2010-08-02T11:36:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\passThroughBomb.png</Source>
+      <Name>Images\Power-ups\passThroughBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\passThroughBomb.xnb</Output>
+      <Time>2010-08-02T11:34:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\powerGlove.png</Source>
+      <Name>Images\Power-ups\powerGlove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\powerGlove.xnb</Output>
+      <Time>2010-08-02T11:37:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\remoteBomb.png</Source>
+      <Name>Images\Power-ups\remoteBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\remoteBomb.xnb</Output>
+      <Time>2010-08-02T11:39:06-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\skull.png</Source>
+      <Name>Images\Power-ups\skull</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\skull.xnb</Output>
+      <Time>2010-08-02T11:44:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups\speedUp.png</Source>
+      <Name>Images\Power-ups\speedUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups\speedUp.xnb</Output>
+      <Time>2010-08-02T11:38:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Timer\Timer.png</Source>
+      <Name>Images\Timer\Timer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Timer\Timer.xnb</Output>
+      <Time>2010-10-02T17:28:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Fire\Explosion.png</Source>
+      <Name>Images\Fire\Explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Fire\Explosion.xnb</Output>
+      <Time>2010-08-12T17:43:02-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\passthroughbomb.png</Source>
+      <Name>Images\Bombs\passthroughbomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\passthroughbomb.xnb</Output>
+      <Time>2010-08-18T10:26:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\shadow.png</Source>
+      <Name>Images\Character\shadow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\shadow.xnb</Output>
+      <Time>2010-08-31T09:21:50-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\dangerousBomb.png</Source>
+      <Name>Images\Bombs\dangerousBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\dangerousBomb.xnb</Output>
+      <Time>2010-09-15T08:05:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\remoteBomb.png</Source>
+      <Name>Images\Bombs\remoteBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\remoteBomb.xnb</Output>
+      <Time>2010-09-15T11:39:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\OnBoat.png</Source>
+      <Name>Images\Backgrounds\OnBoat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\OnBoat.xnb</Output>
+      <Time>2010-09-27T10:56:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\0.png</Source>
+      <Name>Images\Water Tiles\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\0.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\1.png</Source>
+      <Name>Images\Water Tiles\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\1.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\10.png</Source>
+      <Name>Images\Water Tiles\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\10.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\11.png</Source>
+      <Name>Images\Water Tiles\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\11.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\12.png</Source>
+      <Name>Images\Water Tiles\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\12.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\13.png</Source>
+      <Name>Images\Water Tiles\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\13.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\14.png</Source>
+      <Name>Images\Water Tiles\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\14.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\15.png</Source>
+      <Name>Images\Water Tiles\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\15.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\16.png</Source>
+      <Name>Images\Water Tiles\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\16.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\17.png</Source>
+      <Name>Images\Water Tiles\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\17.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\18.png</Source>
+      <Name>Images\Water Tiles\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\18.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\19.png</Source>
+      <Name>Images\Water Tiles\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\19.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\2.png</Source>
+      <Name>Images\Water Tiles\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\2.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\20.png</Source>
+      <Name>Images\Water Tiles\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\20.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\21.png</Source>
+      <Name>Images\Water Tiles\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\21.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\22.png</Source>
+      <Name>Images\Water Tiles\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\22.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\23.png</Source>
+      <Name>Images\Water Tiles\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\23.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\24.png</Source>
+      <Name>Images\Water Tiles\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\24.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\25.png</Source>
+      <Name>Images\Water Tiles\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\25.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\26.png</Source>
+      <Name>Images\Water Tiles\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\26.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\27.png</Source>
+      <Name>Images\Water Tiles\27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\27.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\28.png</Source>
+      <Name>Images\Water Tiles\28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\28.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\29.png</Source>
+      <Name>Images\Water Tiles\29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\29.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\3.png</Source>
+      <Name>Images\Water Tiles\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\3.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\30.png</Source>
+      <Name>Images\Water Tiles\30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\30.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\31.png</Source>
+      <Name>Images\Water Tiles\31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\31.xnb</Output>
+      <Time>2010-09-27T11:17:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\4.png</Source>
+      <Name>Images\Water Tiles\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\4.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\5.png</Source>
+      <Name>Images\Water Tiles\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\5.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\6.png</Source>
+      <Name>Images\Water Tiles\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\6.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\7.png</Source>
+      <Name>Images\Water Tiles\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\7.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\8.png</Source>
+      <Name>Images\Water Tiles\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\8.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Water Tiles\9.png</Source>
+      <Name>Images\Water Tiles\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Water Tiles\9.xnb</Output>
+      <Time>2010-09-27T11:17:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\Barril.png</Source>
+      <Name>Images\Tiles\Barril</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\Barril.xnb</Output>
+      <Time>2010-09-28T10:58:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\redbarrel.png</Source>
+      <Name>Images\Tiles\redbarrel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\redbarrel.xnb</Output>
+      <Time>2010-10-04T09:01:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\draw.png</Source>
+      <Name>Images\ScreenMessages\draw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\draw.xnb</Output>
+      <Time>2010-09-29T15:00:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\winner.png</Source>
+      <Name>Images\ScreenMessages\winner</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\winner.xnb</Output>
+      <Time>2010-09-29T15:00:30-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\fight.png</Source>
+      <Name>Images\ScreenMessages\fight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\fight.xnb</Output>
+      <Time>2010-10-01T09:06:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\hurry.png</Source>
+      <Name>Images\ScreenMessages\hurry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\hurry.xnb</Output>
+      <Time>2010-10-01T09:06:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\ready.png</Source>
+      <Name>Images\ScreenMessages\ready</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\ready.xnb</Output>
+      <Time>2010-10-01T09:06:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\time's up.png</Source>
+      <Name>Images\ScreenMessages\time's up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\time's up.xnb</Output>
+      <Time>2010-10-01T09:06:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanMerchant.png</Source>
+      <Name>Images\Character\BombermanMerchant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanMerchant.xnb</Output>
+      <Time>2010-10-01T11:04:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanFairy.png</Source>
+      <Name>Images\Character\BombermanFairy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanFairy.xnb</Output>
+      <Time>2010-10-01T11:04:36-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanKing.png</Source>
+      <Name>Images\Character\BombermanKing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanKing.xnb</Output>
+      <Time>2010-10-01T11:04:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Timer\separatorTimer.png</Source>
+      <Name>Images\Timer\separatorTimer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Timer\separatorTimer.xnb</Output>
+      <Time>2010-10-02T12:58:12-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Fire\FireBall.png</Source>
+      <Name>Images\Fire\FireBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Fire\FireBall.xnb</Output>
+      <Time>2010-10-02T17:16:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\normalBomb\0.png</Source>
+      <Name>Images\Bombs\normalBomb\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\normalBomb\0.xnb</Output>
+      <Time>2010-10-04T10:29:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\normalBomb\1.png</Source>
+      <Name>Images\Bombs\normalBomb\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\normalBomb\1.xnb</Output>
+      <Time>2010-10-04T10:29:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\normalBomb\2.png</Source>
+      <Name>Images\Bombs\normalBomb\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\normalBomb\2.xnb</Output>
+      <Time>2010-10-04T10:29:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bombs\normalBomb\3.png</Source>
+      <Name>Images\Bombs\normalBomb\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Bombs\normalBomb\3.xnb</Output>
+      <Time>2010-10-04T10:29:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Timer\clock.png</Source>
+      <Name>Images\Timer\clock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Timer\clock.xnb</Output>
+      <Time>2010-10-07T16:56:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\Excel.png</Source>
+      <Name>Images\Backgrounds\Excel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\Excel.xnb</Output>
+      <Time>2010-10-07T08:37:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocodestrutivelexcel.png</Source>
+      <Name>Images\Tiles\blocodestrutivelexcel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocodestrutivelexcel.xnb</Output>
+      <Time>2010-10-07T09:17:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocoindestrutivelexcel.png</Source>
+      <Name>Images\Tiles\blocoindestrutivelexcel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocoindestrutivelexcel.xnb</Output>
+      <Time>2010-10-07T09:17:58-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\bishop.png</Source>
+      <Name>Images\Mugshots\bishop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\bishop.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\blackbomber.png</Source>
+      <Name>Images\Mugshots\blackbomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\blackbomber.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\bluebomber.png</Source>
+      <Name>Images\Mugshots\bluebomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\bluebomber.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\fairy.png</Source>
+      <Name>Images\Mugshots\fairy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\fairy.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\greenbomber.png</Source>
+      <Name>Images\Mugshots\greenbomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\greenbomber.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\hero.png</Source>
+      <Name>Images\Mugshots\hero</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\hero.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\merchant.png</Source>
+      <Name>Images\Mugshots\merchant</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\merchant.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\monk.png</Source>
+      <Name>Images\Mugshots\monk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\monk.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\ninja.png</Source>
+      <Name>Images\Mugshots\ninja</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\ninja.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\redbomber.png</Source>
+      <Name>Images\Mugshots\redbomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\redbomber.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\whitebomber.png</Source>
+      <Name>Images\Mugshots\whitebomber</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\whitebomber.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Mugshots\witch.png</Source>
+      <Name>Images\Mugshots\witch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Mugshots\witch.xnb</Output>
+      <Time>2010-10-07T12:51:48-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanBlue.png</Source>
+      <Name>Images\Character\BombermanBlue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanBlue.xnb</Output>
+      <Time>2010-10-07T14:48:24-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Character\BombermanGreen.png</Source>
+      <Name>Images\Character\BombermanGreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Character\BombermanGreen.xnb</Output>
+      <Time>2010-10-07T14:48:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\0.png</Source>
+      <Name>Images\Score\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\0.xnb</Output>
+      <Time>2010-10-18T21:37:20-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\1.png</Source>
+      <Name>Images\Score\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\1.xnb</Output>
+      <Time>2010-10-18T21:37:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\2.png</Source>
+      <Name>Images\Score\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\2.xnb</Output>
+      <Time>2010-10-18T21:37:56-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\3.png</Source>
+      <Name>Images\Score\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\3.xnb</Output>
+      <Time>2010-10-18T21:38:08-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\4.png</Source>
+      <Name>Images\Score\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\4.xnb</Output>
+      <Time>2010-10-18T21:38:20-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\5.png</Source>
+      <Name>Images\Score\5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\5.xnb</Output>
+      <Time>2010-10-18T21:38:28-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\6.png</Source>
+      <Name>Images\Score\6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\6.xnb</Output>
+      <Time>2010-10-18T21:38:42-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\7.png</Source>
+      <Name>Images\Score\7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\7.xnb</Output>
+      <Time>2010-10-18T21:39:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\8.png</Source>
+      <Name>Images\Score\8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\8.xnb</Output>
+      <Time>2010-10-18T21:39:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Score\9.png</Source>
+      <Name>Images\Score\9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Score\9.xnb</Output>
+      <Time>2010-10-18T21:39:22-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu Background.png</Source>
+      <Name>Images\Menu\Menu Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\Menu Background.xnb</Output>
+      <Time>2010-10-12T12:57:38-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\ScreenMessages\letsgo.png</Source>
+      <Name>Images\ScreenMessages\letsgo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\ScreenMessages\letsgo.xnb</Output>
+      <Time>2010-10-18T09:28:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\pressAnyKey.png</Source>
+      <Name>Images\Menu\pressAnyKey</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\pressAnyKey.xnb</Output>
+      <Time>2010-10-18T10:04:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\pressEnter.png</Source>
+      <Name>Images\Menu\pressEnter</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\pressEnter.xnb</Output>
+      <Time>2010-10-18T10:12:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Arena.png</Source>
+      <Name>Images\Level Select\Arena</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Arena.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Badlands.png</Source>
+      <Name>Images\Level Select\Badlands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Badlands.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Bathhouse.png</Source>
+      <Name>Images\Level Select\Bathhouse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Bathhouse.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Beach.png</Source>
+      <Name>Images\Level Select\Beach</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Beach.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Bridge.png</Source>
+      <Name>Images\Level Select\Bridge</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Bridge.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Desert.png</Source>
+      <Name>Images\Level Select\Desert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Desert.xnb</Output>
+      <Time>2003-03-13T13:05:08-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Dungeon1.png</Source>
+      <Name>Images\Level Select\Dungeon1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Dungeon1.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Dungeon2.png</Source>
+      <Name>Images\Level Select\Dungeon2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Dungeon2.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Dungeon3.png</Source>
+      <Name>Images\Level Select\Dungeon3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Dungeon3.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Dungeon4.png</Source>
+      <Name>Images\Level Select\Dungeon4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Dungeon4.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Dungeon5.png</Source>
+      <Name>Images\Level Select\Dungeon5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Dungeon5.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Dungeon6.png</Source>
+      <Name>Images\Level Select\Dungeon6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Dungeon6.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Forest1.png</Source>
+      <Name>Images\Level Select\Forest1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Forest1.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Forest2.png</Source>
+      <Name>Images\Level Select\Forest2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Forest2.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Grasslands.png</Source>
+      <Name>Images\Level Select\Grasslands</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Grasslands.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\House.png</Source>
+      <Name>Images\Level Select\House</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\House.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\InTown.png</Source>
+      <Name>Images\Level Select\InTown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\InTown.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\MountainPath.png</Source>
+      <Name>Images\Level Select\MountainPath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\MountainPath.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Ocean.png</Source>
+      <Name>Images\Level Select\Ocean</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Ocean.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\OldTown.png</Source>
+      <Name>Images\Level Select\OldTown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\OldTown.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\OnBoat.png</Source>
+      <Name>Images\Level Select\OnBoat</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\OnBoat.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\OnRoad.png</Source>
+      <Name>Images\Level Select\OnRoad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\OnRoad.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\PoisonMarsh.png</Source>
+      <Name>Images\Level Select\PoisonMarsh</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\PoisonMarsh.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\RockyPath.png</Source>
+      <Name>Images\Level Select\RockyPath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\RockyPath.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Ruins.png</Source>
+      <Name>Images\Level Select\Ruins</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Ruins.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Ruins2.png</Source>
+      <Name>Images\Level Select\Ruins2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Ruins2.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Sky.png</Source>
+      <Name>Images\Level Select\Sky</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Sky.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\SnowField.png</Source>
+      <Name>Images\Level Select\SnowField</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\SnowField.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Space.png</Source>
+      <Name>Images\Level Select\Space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Space.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Temple.png</Source>
+      <Name>Images\Level Select\Temple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Temple.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Temple2.png</Source>
+      <Name>Images\Level Select\Temple2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Temple2.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Throne.png</Source>
+      <Name>Images\Level Select\Throne</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Throne.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Tomb.png</Source>
+      <Name>Images\Level Select\Tomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Tomb.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Universe.png</Source>
+      <Name>Images\Level Select\Universe</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Universe.xnb</Output>
+      <Time>2002-10-01T05:00:00-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu Background Red.png</Source>
+      <Name>Images\Menu\Menu Background Red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\Menu Background Red.xnb</Output>
+      <Time>2010-10-18T13:21:54-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Border.png</Source>
+      <Name>Images\Level Select\Border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Border.xnb</Output>
+      <Time>2010-10-19T09:48:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\logo.png</Source>
+      <Name>Images\Menu\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\logo.xnb</Output>
+      <Time>2010-10-19T12:41:18-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\stageSelect.png</Source>
+      <Name>Images\Menu\stageSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\stageSelect.xnb</Output>
+      <Time>2010-10-19T12:50:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\WhitePixel.png</Source>
+      <Name>Images\Menu\WhitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Menu\WhitePixel.xnb</Output>
+      <Time>2010-10-21T13:42:42-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Scoreboard\ScoreBoard.png</Source>
+      <Name>Images\Scoreboard\ScoreBoard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Scoreboard\ScoreBoard.xnb</Output>
+      <Time>2010-10-26T12:48:00-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Scoreboard\Trophy.png</Source>
+      <Name>Images\Scoreboard\Trophy</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Scoreboard\Trophy.xnb</Output>
+      <Time>2010-10-26T11:54:38-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Scoreboard\skulls.png</Source>
+      <Name>Images\Scoreboard\skulls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Scoreboard\skulls.xnb</Output>
+      <Time>2010-10-26T11:55:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\CharacterSelect\Character Select.png</Source>
+      <Name>Images\CharacterSelect\Character Select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\CharacterSelect\Character Select.xnb</Output>
+      <Time>2010-10-31T17:04:10-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Backgrounds\BASE caverna.png</Source>
+      <Name>Images\Backgrounds\BASE caverna</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Backgrounds\BASE caverna.xnb</Output>
+      <Time>2010-10-31T17:21:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Tiles\blocodefogocorrigido.PNG</Source>
+      <Name>Images\Tiles\blocodefogocorrigido</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Tiles\blocodefogocorrigido.xnb</Output>
+      <Time>2010-09-14T11:49:44-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Level Select\Forest small.PNG</Source>
+      <Name>Images\Level Select\Forest small</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Level Select\Forest small.xnb</Output>
+      <Time>2010-11-08T10:21:26-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\CharacterSelect\selector.png</Source>
+      <Name>Images\CharacterSelect\selector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\CharacterSelect\selector.xnb</Output>
+      <Time>2010-11-09T12:31:16-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\CharacterSelect\big selector.png</Source>
+      <Name>Images\CharacterSelect\big selector</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\CharacterSelect\big selector.xnb</Output>
+      <Time>2010-11-11T22:34:32-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\bombKick.png</Source>
+      <Name>Images\Power-ups Menu\bombKick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\bombKick.xnb</Output>
+      <Time>2010-11-16T09:44:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\bombUp.png</Source>
+      <Name>Images\Power-ups Menu\bombUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\bombUp.xnb</Output>
+      <Time>2010-11-16T09:44:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\dangerousBomb.png</Source>
+      <Name>Images\Power-ups Menu\dangerousBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\dangerousBomb.xnb</Output>
+      <Time>2010-11-16T09:44:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\fireUp.png</Source>
+      <Name>Images\Power-ups Menu\fireUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\fireUp.xnb</Output>
+      <Time>2010-11-16T09:44:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\fullFire.png</Source>
+      <Name>Images\Power-ups Menu\fullFire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\fullFire.xnb</Output>
+      <Time>2010-11-16T09:44:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\lineBomb.png</Source>
+      <Name>Images\Power-ups Menu\lineBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\lineBomb.xnb</Output>
+      <Time>2010-11-16T09:44:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\passThroughBomb.png</Source>
+      <Name>Images\Power-ups Menu\passThroughBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\passThroughBomb.xnb</Output>
+      <Time>2010-11-16T09:44:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\powerGlove.png</Source>
+      <Name>Images\Power-ups Menu\powerGlove</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\powerGlove.xnb</Output>
+      <Time>2010-11-16T09:44:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\remoteBomb.png</Source>
+      <Name>Images\Power-ups Menu\remoteBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\remoteBomb.xnb</Output>
+      <Time>2010-11-16T09:44:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\skulls.png</Source>
+      <Name>Images\Power-ups Menu\skulls</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\skulls.xnb</Output>
+      <Time>2010-11-16T09:44:14-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Power-ups Menu\speedUp.png</Source>
+      <Name>Images\Power-ups Menu\speedUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Power-ups Menu\speedUp.xnb</Output>
+      <Time>2010-11-16T09:44:12-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\CharacterSelect\character_Select.png</Source>
+      <Name>Images\CharacterSelect\character_Select</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\CharacterSelect\character_Select.xnb</Output>
+      <Time>2010-11-22T09:20:50-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\CharacterSelect\mugshot border.png</Source>
+      <Name>Images\CharacterSelect\mugshot border</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\CharacterSelect\mugshot border.xnb</Output>
+      <Time>2010-11-22T09:43:30-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Scoreboard\victory.png</Source>
+      <Name>Images\Scoreboard\victory</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Images\Scoreboard\victory.xnb</Output>
+      <Time>2010-11-23T09:30:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Time.spritefont</Source>
+      <Name>Font\Time</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\Time.xnb</Output>
+      <Time>2010-03-15T14:06:54-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\menuLarge.spritefont</Source>
+      <Name>Font\menuLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\menuLarge.xnb</Output>
+      <Time>2010-04-06T08:03:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\menuSmall.spritefont</Source>
+      <Name>Font\menuSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\menuSmall.xnb</Output>
+      <Time>2010-04-06T08:03:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\Pause_GameOver.spritefont</Source>
+      <Name>Font\Pause_GameOver</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\Pause_GameOver.xnb</Output>
+      <Time>2010-04-04T12:41:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\TimeSmall.spritefont</Source>
+      <Name>Font\TimeSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\TimeSmall.xnb</Output>
+      <Time>2010-04-04T13:06:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\BomberBroFont.spritefont</Source>
+      <Name>Font\BomberBroFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\BomberBroFont.xnb</Output>
+      <Time>2010-09-28T17:49:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\ArialRoundedMTBold.spritefont</Source>
+      <Name>Font\ArialRoundedMTBold</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\ArialRoundedMTBold.xnb</Output>
+      <Time>2010-10-19T10:16:28-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\ArialRoundedMTBoldAndBig.spritefont</Source>
+      <Name>Font\ArialRoundedMTBoldAndBig</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\ArialRoundedMTBoldAndBig.xnb</Output>
+      <Time>2010-10-29T16:12:16-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font\ArialRoundedMTBoldAndBigger.spritefont</Source>
+      <Name>Font\ArialRoundedMTBoldAndBigger</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\Font\ArialRoundedMTBoldAndBigger.xnb</Output>
+      <Time>2010-10-20T19:37:56-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\menu_select3.wav</Source>
+      <Name>sons\menu_select3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu_select3.xnb</Output>
+      <Time>2010-03-28T13:58:56-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\menu_scroll.wav</Source>
+      <Name>sons\menu_scroll</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu_scroll.xnb</Output>
+      <Time>2010-03-28T13:59:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\menu_back.wav</Source>
+      <Name>sons\menu_back</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu_back.xnb</Output>
+      <Time>2010-03-28T13:59:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\powershow.wav</Source>
+      <Name>sons\powershow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\powershow.xnb</Output>
+      <Time>2010-03-28T13:59:46-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\beep1.wav</Source>
+      <Name>sons\beep1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\beep1.xnb</Output>
+      <Time>2010-09-10T08:50:32-03:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\death.wav</Source>
+      <Name>sons\death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\death.xnb</Output>
+      <Time>2010-10-29T11:13:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\explosion.wav</Source>
+      <Name>sons\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\explosion.xnb</Output>
+      <Time>2010-11-23T10:35:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\itempick.wav</Source>
+      <Name>sons\itempick</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\itempick.xnb</Output>
+      <Time>2010-11-23T10:35:02-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\Bomberman World Battle.mp3</Source>
+      <Name>sons\Bomberman World Battle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\Bomberman World Battle.xnb</Output>
+      <Extra>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\Bomberman World Battle.wma</Extra>
+      <Time>2010-10-19T15:23:42-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\menu.mp3</Source>
+      <Name>sons\menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu.xnb</Output>
+      <Extra>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu.wma</Extra>
+      <Time>2010-10-19T15:23:44-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\menu2.mp3</Source>
+      <Name>sons\menu2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu2.xnb</Output>
+      <Extra>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\menu2.wma</Extra>
+      <Time>2010-10-19T15:23:46-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\Tale of Sack Sparrow.mp3</Source>
+      <Name>sons\Tale of Sack Sparrow</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\Tale of Sack Sparrow.xnb</Output>
+      <Extra>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\Tale of Sack Sparrow.wma</Extra>
+      <Time>2010-10-19T15:23:48-02:00</Time>
+    </Item>
+    <Item>
+      <Source>sons\In The Jungle.mp3</Source>
+      <Name>sons\In The Jungle</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\In The Jungle.xnb</Output>
+      <Extra>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\sons\In The Jungle.wma</Extra>
+      <Time>2010-10-24T16:18:28-02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\Content\</RootDirectory>
+      <LoggerRootDirectory>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\</LoggerRootDirectory>
+      <IntermediateDirectory>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>I:\Users\Renan\Desktop\Renan\BomberBro\BomberBro\BomberBro\BomberMan\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-28T00:16:14-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-28T00:16:16-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-28T00:16:26-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-28T00:16:12-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Program Files\Microsoft XNA\XNA Game Studio\v3.1\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-28T00:16:06-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>I:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.1.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-03-14T11:55:19.8817597-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
